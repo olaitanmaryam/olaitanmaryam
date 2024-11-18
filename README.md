@@ -1,4 +1,4 @@
-- 👋 Hi, I’m OLAITAN, Maryam M.
+- 👋 Hi, my name is Maryam OLAITAN.
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m open to opportunities to put my learning into practice.
